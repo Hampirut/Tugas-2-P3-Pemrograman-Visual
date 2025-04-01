@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\bin\Debug\net8.0-windows\ContactAppWinForms.exe
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\bin\Debug\net8.0-windows\ContactAppWinForms.deps.json
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\bin\Debug\net8.0-windows\ContactAppWinForms.runtimeconfig.json
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\bin\Debug\net8.0-windows\ContactAppWinForms.dll
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\bin\Debug\net8.0-windows\ContactAppWinForms.pdb
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\obj\Debug\net8.0-windows\ContactAppWinForms.Form1.resources
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\obj\Debug\net8.0-windows\ContactAppWinForms.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\obj\Debug\net8.0-windows\ContactAppWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\obj\Debug\net8.0-windows\ContactAppWinForms.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\obj\Debug\net8.0-windows\ContactAppWinForms.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\obj\Debug\net8.0-windows\ContactAppWinForms.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\obj\Debug\net8.0-windows\ContactAppWinForms.dll
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\obj\Debug\net8.0-windows\refint\ContactAppWinForms.dll
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\obj\Debug\net8.0-windows\ContactAppWinForms.pdb
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\obj\Debug\net8.0-windows\ContactAppWinForms.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ContactAppWinForms\ContactAppWinForms\obj\Debug\net8.0-windows\ref\ContactAppWinForms.dll
